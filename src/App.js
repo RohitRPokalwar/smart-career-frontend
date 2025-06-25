@@ -76,7 +76,7 @@ function App() {
       <select value={role} onChange={(e) => setRole(e.target.value)}>
         <option value="AI/ML">AI/ML</option>
         <option value="Web Development">Web Development</option>
-        <option value="Data Analyst">Data Analyst</option>
+        <option value="Data Science">Data Science</option>
         <option value="Cybersecurity">Cybersecurity</option>
       </select>
 
