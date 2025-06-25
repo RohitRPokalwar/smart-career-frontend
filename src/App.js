@@ -17,7 +17,6 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [skillInput, setSkillInput] = useState("");
   const [predictedDomain, setPredictedDomain] = useState("");
-  const [darkMode, setDarkMode] = useState(false);
 
   // In your JSX return:
 
